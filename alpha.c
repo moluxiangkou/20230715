@@ -2,7 +2,8 @@
 int main(void)
 {
 
-printf("hello world");
-
+ printf("6666");
+ printf("wodetianna");
+ printf("maya");
 return 0;
 }
